@@ -3,18 +3,18 @@ The script connects Python to PostgreSQL, performs data manipulation, and stores
 
 ENVIRONMENT:-
 
-Python Version	                                 3.13.5
+Python Version --------------------------------- 3.13.5
 
-Jupyter Notebook	                               Installed via Anaconda
+Jupyter Notebook ------------------------------ Installed via Anaconda
 
-Database	                                       PostgreSQL 18
+Database --------------------------------------- PostgreSQL 18
 
-Database GUI	                                   pgAdmin 4
+Database GUI ----------------------------------- pgAdmin 4
 
-Python Libraries Used	                           psycopg2-binary, pandas, json
+Python Libraries Used	-------------------------- psycopg2-binary, pandas, json
 
-IDE / Editor	                                   Jupyter Notebook
+IDE / Editor ------------------------------------- Jupyter Notebook
 
-Database Name	                                   assignmentdb
+Database Name	-------------------------------- assignmentdb
 
-Table Name	                                     students
+Table Name ------------------------------------- students
